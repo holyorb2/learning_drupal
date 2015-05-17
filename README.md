@@ -1,1 +1,6 @@
-# learning_drupal
+# Структура
+
+ - lessons - папка с начальными уроками
+ - preparation - необходимо для изучения
+ - organization - файлы организаторов
+ 
